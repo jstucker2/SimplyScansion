@@ -1,0 +1,192 @@
+@media (max-width: 400px) {
+    .box_item_component .outside {
+        border-top: none;
+        width: 12vw;
+        font-size: 12px;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 500px) {
+    .box_item_component .outside {
+        border-top: none;
+        width: 12vw;
+        font-size: 14px;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 900px) {
+    .box_item_component .outside {
+        border-top: none;
+        width: 6.5vw;
+        font-size: 10.75px;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1100px) {
+    .box_item_component .outside {
+        border-top: none;
+        width: 6vw;
+        overflow: hidden;
+    }
+
+    img {
+        margin-top: 3vh;
+        margin-left: 15%;
+    }
+
+    .box_item_component .eight {
+        border-top: none;
+        width: 3vw;
+        font-size: 8px;
+        height: 55px;
+        overflow: hidden;
+    }
+
+    .box_item_component .seven {
+        border-top: none;
+        width: 4vw;
+        font-size: 10px;
+        height: 55px;
+        overflow: hidden;
+    }
+
+    .box_item_component .six {
+        border-top: none;
+        width: 5vw;
+        font-size: 13px;
+        height: 55px;
+        overflow: hidden;
+    }
+
+    .box_item_component .four {
+        border-top: none;
+        width: 7vw;
+        font-size: 16px;
+        height: 55px;
+        overflow: hidden;
+    }
+
+    .box_item_component .three {
+        border-top: none;
+        width: 10vw;
+        font-size: 16px;
+        height: 55px;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 1100px) {
+    .box_item_component .outside {
+        border-top: none;
+        width: 5.5vw;
+        overflow: hidden;
+    }
+
+    img {
+        margin-top: 3vh;
+        margin-left: 70%;
+    }
+
+    .box_item_component .eight {
+        border-top: none;
+        width: 3vw;
+        font-size: 14px;
+        height: 55px;
+        overflow: hidden;
+    }
+
+    .box_item_component .seven {
+        border-top: none;
+        width: 4vw;
+        overflow: hidden;
+    }
+
+    .box_item_component .six {
+        border-top: none;
+        width: 5vw;
+        overflow: hidden;
+    }
+
+    .box_item_component .four {
+        border-top: none;
+        width: 7vw;
+        overflow: hidden;
+    }
+
+    .box_item_component .three {
+        border-top: none;
+        width: 10vw;
+        overflow: hidden;
+    }
+}
+
+.box_item_component .highlighted .outside {
+    border-top: 40px solid #ddd;
+}
+
+.box_item_component .yellow {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px;
+    font-weight: 900;
+    background-color: #FFD400;
+    text-align: center;
+}
+.box_item_component .purple {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px;
+    font-weight: 900;
+    background-color: #BB75E0;
+    text-align: center;
+}
+
+.box_item_component .blue {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px;
+    font-weight: 900;
+    background-color: #214794;
+    text-align: center;
+}
+
+.box_item_component .green {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px;
+    font-weight: 900;
+    background-color: #2D9E3C;
+    text-align: center;
+}
+
+.box_item_component .gray {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px;
+    font-weight: 900;
+    background-color: #999999;
+    text-align: center;
+}
+
+.box_item_component .black {
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 900;
+    margin: 3px;
+    background-color: black;
+    text-align: center;
+}
+
+.box_item_component .grabber {
+    font-weight: bold;
+    padding-right: 6px;
+}
